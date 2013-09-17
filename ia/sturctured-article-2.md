@@ -1,3 +1,12 @@
+---
+
+Title: Hail
+Category: Moisture in the sky
+Author: Robyn Rutherford
+Date: 16/09/2013
+
+---
+
 ## Hail
 
 Hail is a form of solid precipitation. It consists of balls or irregular lumps

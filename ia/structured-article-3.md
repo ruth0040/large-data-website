@@ -1,3 +1,12 @@
+---
+
+Title: Somg
+Category: Humans and the sky
+Author: Robyn Rutherford
+Date: 16/09/2013
+
+---
+
 ## Smog
 
 Smog is a type of air pollution; the word *smog* was made in the early 20th

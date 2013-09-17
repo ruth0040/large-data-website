@@ -1,3 +1,12 @@
+---
+
+Title: The Sky
+Category: Landing page
+Author: Robyn Rutherford
+Date: 16/09/2013
+
+---
+
 # The Sky
 
 ![Vast blue sky with fluffy clouds](http://www.wallcoo.net/nature/blue_sky_white_clound/images/%5Bwallcoo_com%5D_blue_sky_white_clound_00448.jpg)
