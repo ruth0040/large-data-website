@@ -5,13 +5,13 @@
 - Introduction
 - Why is the sky blue
 	- Diagram for this explanation
+- Website navigation
 - Beautiful images
 - Search
 
 ## 2. Medium
 
 - Website branding, logo
-- Website navigation
 - Current sky quality and weather
 - Information sources
 
