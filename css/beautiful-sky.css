@@ -27,6 +27,12 @@ img {
   width: 100%;
 }
 
+.logo {
+  font-size: 1.75em;
+  color: #6b89c5;
+  font-weight: bold;
+}
+
 .nav-bg {
     background-color: #eae8e4;
 
@@ -38,11 +44,14 @@ footer a {
 
   text-decoration: none;
   color: #19459c;
-  display: block;
+  font-size: 1.15em;
   text-align: center;
+  display: block;
   padding-bottom: 4%;
   padding-top: 0;
   width: 100%;
+
+  border: 1px solid red;
 }
 
 footer p {
@@ -90,4 +99,13 @@ h2 {
 
 .bucket-p {
   margin-top: -.1%;
+}
+
+
+/* Media Queries */
+
+@media only screen and (min-width: 26em) {
+
+
+
 }
