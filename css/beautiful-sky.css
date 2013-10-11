@@ -13,21 +13,81 @@
 
 html {
   min-width: 240px;
-  background-color: #e2e2e2;
+    background-image:url(../images/sky-background.png);
   font: normal 100%/1.4 Georgia, serif;
 }
 
+img {
+  width: 100%;
+}
+
+
+/* Nav and footer, from default file*/
 .nav-img {
   width: 100%;
 }
 
-nav a {
-  background-color: #666;
+.nav-bg {
+    background-color: #eae8e4;
+
+}
+
+nav a,
+footer a {
+  background-color: #eae8e4;
 
   text-decoration: none;
-  color: #fff;
+  color: #19459c;
   display: block;
-  text-align: left;
-  padding: 3%;
+  text-align: center;
+  padding-bottom: 4%;
+  padding-top: 0;
   width: 100%;
+}
+
+footer p {
+  font-size: .5em;
+  color: #19459c;
+  text-align: center;
+  padding-top: 2.5%;
+}
+
+/* Content */
+
+/* Home Page */
+
+h1 {
+  color: #fff;
+  font-size: 1.75em;
+
+  background-color: #19459c;
+  padding: 2% 1% 2% 4%;
+  margin: 2% -2.7% 0% -2%;
+
+
+}
+
+h2 {
+  margin-bottom: .5%;
+}
+
+
+
+.main-article {
+  background-color: #fff;
+  opacity: 0.6;
+  padding: 2% 2% 2% 2%;
+  margin: 0% -2.7% 2% -2%;
+}
+
+.bucket {
+  background-color: #fff;
+  opacity: 0.6;
+  /*padding: 4% 1% 2% 4%;*/
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.bucket-p {
+  margin-top: -.1%;
 }

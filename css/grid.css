@@ -28,7 +28,7 @@
   .unit-s-1 {
     display: block;
   }
-  .unit-s-1-2 {
+  /*.unit-s-1-2 {
     width: 50%;
   }
   .unit-s-1-3 {
@@ -42,7 +42,7 @@
   }
   .unit-s-3-4 {
     width: 75%;
-  }
+  } */
 }
 @media only screen and (min-width: 38em) and (max-width: 60em) {
   .unit-m-hidden {
