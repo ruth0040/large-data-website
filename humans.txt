@@ -1,0 +1,28 @@
+# humanstxt.org
+
+# TEAM
+
+Designer & Developer: Robyn Rutherford <rrutherford6591@hotmail.ca>
+Site:
+GitHub: ruth0040.github.io
+Twitter: @RutherfordRobyn
+Location: Ottawa, Canada
+
+---
+
+# THANKS
+
+To Thomas J Bradley, for being an awesome coding teacher
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+- Sublime Text 2
+- Git + GitHub
+- UglifyJS
+- Markdown
+
+## Hosting
