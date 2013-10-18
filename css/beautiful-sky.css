@@ -19,6 +19,13 @@ html {
 
 img {
   width: 100%;
+/*  margin-left: -5%;
+  margin-right: -5%;*/
+}
+
+.bucket-img {
+  width: 100%;
+  padding: 1.5%;
 }
 
 
@@ -51,7 +58,7 @@ footer a {
   padding-top: 0;
   width: 100%;
 
-  border: 1px solid red;
+/*  border: 1px solid red;*/
 }
 
 footer p {
@@ -119,6 +126,15 @@ footer p {
   font-size: 1.5em;
 }
 
+.img-left {
+  padding-top: 4%;
+  margin-left: -2.5%;
+}
+
+.img-right {
+  padding-top: 4%;
+  margin-left: 2.5%;
+}
 
 }
 
@@ -127,6 +143,17 @@ footer p {
 footer p {
   font-size: 2em;
 }
+
+.img-left {
+  padding-top: 4%;
+  margin-left: -2.5%;
+}
+
+.img-right {
+  padding-top: 1%;
+  margin-left: 2.5%;
+}
+
 
 }
 
