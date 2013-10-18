@@ -91,14 +91,14 @@ h2 {
 
 .main-article {
   background-color: #fff;
-  opacity: 0.6;
+  background: rgba(255, 255, 255, 0.4);
   padding: 2% 2% 2% 2%;
   margin: 0% -2.7% 2% -2%;
 }
 
 .bucket {
   background-color: #fff;
-  opacity: 0.6;
+  background: rgba(255, 255, 255, 0.4);
 /*    padding: 4% 1% 2% 4%;*/
   margin-top: 2%;
   margin-bottom: 2%;
@@ -116,6 +116,11 @@ h2 {
 footer p {
   font-size: .75em;
   width: 100%;
+}
+
+nav a,
+footer a {
+  padding-top: 2%;
 }
 
 }
@@ -142,6 +147,10 @@ footer p {
 
 footer p {
   font-size: 2em;
+}
+
+.nav-btn {
+  padding-top: 1%;
 }
 
 .img-left {
