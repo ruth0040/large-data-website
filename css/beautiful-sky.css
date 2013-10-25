@@ -61,7 +61,7 @@ footer a {
 /*  border: 1px solid red;*/
 }
 
-footer p {
+.footer-p {
   font-size: .5em;
   color: #19459c;
   text-align: center;
@@ -84,7 +84,13 @@ h1 {
 }
 
 h2 {
-  margin-bottom: .5%;
+  color: #fff;
+  font-size: 1.5em;
+  text-align: center;
+
+  background-color: #19459c;
+  padding: 2% 1% 2% 4%;
+  margin: 2% -2.7% 0% -2%;
 }
 
 
@@ -106,6 +112,16 @@ h2 {
 
 .bucket-p {
   margin-top: -.1%;
+}
+
+.bottom-img {
+  padding-bottom: 4%;
+  padding-right: 3%;
+}
+
+.bottom-img-right {
+  padding-bottom: 4%;
+  padding-left: 3%;
 }
 
 
@@ -139,6 +155,10 @@ footer p {
 .img-right {
   padding-top: 4%;
   margin-left: 2.5%;
+}
+
+.bottom-img {
+  padding-top: -8px;
 }
 
 }
