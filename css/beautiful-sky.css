@@ -34,6 +34,20 @@ img {
   width: 100%;
 }
 
+nav a:hover,
+nav a:focus,
+nav a:active {
+  background-color: #FFF;
+  border-radius: 8px;
+}
+
+/*nav a,
+nav a:hover,
+nav a:active {
+  background-color: #6b89c5;
+  display: block;
+}
+*/
 .logo {
   font-size: 1.75em;
   color: #6b89c5;
@@ -75,6 +89,7 @@ footer a {
 h1 {
   color: #fff;
   font-size: 1.75em;
+  text-align: center;
 
   background-color: #19459c;
   padding: 2% 1% 2% 4%;
@@ -185,4 +200,3 @@ footer p {
 
 
 }
-
