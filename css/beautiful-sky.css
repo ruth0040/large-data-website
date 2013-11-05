@@ -17,6 +17,48 @@ html {
   font: normal 100%/1.4 Georgia, serif;
 }
 
+/* Skiplinks */
+.skiplinks {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  width: 20%;
+  z-index: 3000;
+
+  font-size: 1.25 rem;
+  font-weight: bold;
+  list-style-type: none;
+
+}
+
+.skiplinks a,
+.skiplinks a:link,
+.skiplinks a:visited {
+  display: inline-block;
+  padding: 0.5em 0.75em;
+  position: absolute;
+  top: -10em;
+
+  background-color: #6b89c5;
+
+  color: #FFF;
+  text-decoration: none;
+}
+
+.skiplinks a:focus {
+  top: 0;  /* Removes keyboard selection highlight */
+}
+
+a,
+a:link,
+a:visited {
+  outline: none; /* Removes the keyboard selection highlight */
+}
+
+a:focus {
+  outline: 2px solid #6b89c5;
+}
+
 img {
   width: 100%;
 /*  margin-left: -5%;
