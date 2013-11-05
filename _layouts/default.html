@@ -32,20 +32,30 @@
 <!-- should i be putting baseurl in the the meta tags -->
 
 </head>
-<body>
+<body id="top">
 
   <!-- Nav buttons 6 column grid -->
-  <nav>
-    {% include nav.html %}
-  </nav>
+  <header role="banner">
+
+    <nav role="navigation" id="navigation">
+      <ul class="skiplinks">
+        <li><a href="#main">Skip to primary content</a></li>
+        <li><a href="#complementary">Skip to secondary content</a></li>
+        <li><a href="#navigation">Skip to navigation</a></li>
+      </ul>
+      {% include nav.html %}
+    </nav>
+
+  </header>
 
 
   {{content}}
 
 
-  <footer>
+  <footer role="contentinfo">
     {% include nav.html %}
     <p class="footer-p">© 2013 Robyn Rutherford. All Rights Reserved </p>
+    <a href="#top" class="footer-p">Top</a>
   </footer>
 
 </body>
