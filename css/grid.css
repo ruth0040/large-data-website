@@ -22,6 +22,9 @@
 .unit-spacer {
   padding: 8px;
 }
+.unit-img {
+  padding: 0;
+}
 @media only screen and (max-width: 26em) {
   .unit-s-hidden {
     display: none;
@@ -53,7 +56,7 @@
     visibility: hidden;
   }
 */
-  .nav-img {
+.nav-img {
     float: left;
     width: 20%;
   }
@@ -79,7 +82,7 @@
   }*/
 }
 
-@media only screen and (min-width: 38em) and (max-width: 60em) {
+@media only screen and (min-width: 43em) and (max-width: 60em) {
 /*  .unit-m-hidden {
     display: none;
     visibility: hidden;
@@ -99,6 +102,10 @@
   }
   .unit-m-2-3 {
     width: 66.66667%;
+  }
+
+  .grid {
+    margin-bottom: 2%;
   }
 /*  .unit-m-1-4 {
     width: 25%;
