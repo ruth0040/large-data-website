@@ -279,6 +279,9 @@ footer p {
 html {
   font: normal 150%/1.4 Georgia, serif;
 }
+.unit-img {
+  padding-top: 0%;
+}
 }
 
 @media only screen and (min-width: 125em) {
