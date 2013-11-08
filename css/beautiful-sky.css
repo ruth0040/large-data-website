@@ -240,7 +240,13 @@ footer p {
 @media only screen and (min-width: 93em) {
 
 html {
-  background-image:url(../images/sky-background.png);
   font: normal 150%/1.4 Georgia, serif;
+}
+}
+
+@media only screen and (min-width: 125em) {
+
+html {
+  font: normal 180%/1.4 Georgia, serif;
 }
 }
