@@ -129,16 +129,6 @@ img {
   padding: 1.5%;
 }
 
-.bottom-img {
-  padding-bottom: 4%;
-  padding-right: 3%;
-}
-
-.bottom-img-right {
-  padding-bottom: 4%;
-  padding-left: 3%;
-}
-
 h1 {
   color: #fff;
   font-size: 1.75em;
@@ -159,6 +149,11 @@ h2 {
   margin: 2% -2.7% 0% -2%;
 }
 
+h3 {
+  padding: 0% 2%;
+  margin-top: -0.5%;
+}
+
 .main-article {
   background-color: #fff;
   background: rgba(255, 255, 255, 0.4);
@@ -171,22 +166,23 @@ h2 {
   background-color: #fff;
   background: rgba(255, 255, 255, 0.4);
 /*    padding: 4% 1% 2% 4%;*/
-  margin-top: 2%;
-  margin-bottom: 2%;
+  margin: 1.5%;
 }
 
+.b-left,
+.b-right {
+  margin: 1.5% 0%;
+}
+
+
 .bucket-p {
-  margin-top: -.1%;
+  margin-top: -5%;
+  padding: 0% 2%;
 }
 
 /* Media Queries */
 
 @media only screen and (min-width: 26em) {
-
-footer p {
-  font-size: .75em;
-  width: 100%;
-}
 
 nav a,
 footer a {
@@ -199,10 +195,6 @@ footer a {
 
 .nav-bg {
   margin-bottom: 0;
-}
-
-footer p {
-  font-size: 1.5em;
 }
 
 .img-left {
@@ -221,33 +213,19 @@ footer p {
 
 @media only screen and (min-width: 43em) {
 
-footer p {
-  font-size: 2em;
-}
-
 .nav-btn {
   padding-top: 1%;
 }
 .unit-img {
   padding-top: 4%;
 }
-/*
-.img-left {
-  padding-top: 4%;
-  margin-left: -2.5%;
-}
-
-.img-right {
-  padding-top: 1%;
-  margin-left: 2.5%;
-}*/
 
 }
 
 @media only screen and (min-width: 60em) {
 
-footer p {
-  font-size: 2em;
+.footer-p {
+  font-size: 1em;
 }
 
 .nav-btn {
@@ -279,6 +257,15 @@ footer p {
 html {
   font: normal 150%/1.4 Georgia, serif;
 }
+
+
+}
+
+@media only screen and (min-width: 125em) {
+
+html {
+  font: normal 180%/1.4 Georgia, serif;
+}
 .unit-img {
   padding-top: -3%;
 }
@@ -294,13 +281,5 @@ html {
 
 .img-right {
   padding-top: 0%;
-}
-
-}
-
-@media only screen and (min-width: 125em) {
-
-html {
-  font: normal 180%/1.4 Georgia, serif;
 }
 }
