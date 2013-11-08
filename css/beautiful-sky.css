@@ -281,7 +281,19 @@ html {
 }
 .unit-img {
   padding-top: 0%;
-  margin-top: 2%;
+}
+.img-top-right {
+  margin-top: -2%;
+}
+.img-top-left {
+  margin-top: -2%;
+}
+.img-left {
+  padding-top: -2%;
+}
+
+.img-right {
+  padding-top: -2%;
 }
 
 }
