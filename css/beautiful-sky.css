@@ -59,17 +59,6 @@ a:focus {
   outline: 2px solid #6b89c5;
 }
 
-img {
-  width: 100%;
-/*  margin-left: -5%;
-  margin-right: -5%;*/
-}
-
-.bucket-img {
-  width: 100%;
-  padding: 1.5%;
-}
-
 
 /* Nav and footer, from default file*/
 .nav-img {
@@ -126,7 +115,28 @@ footer a {
 
 /* Content */
 
-/* Home Page */
+/* Images */
+
+img {
+  width: 100%;
+/*  margin-left: -5%;
+  margin-right: -5%;*/
+}
+
+.bucket-img {
+  width: 100%;
+  padding: 1.5%;
+}
+
+.bottom-img {
+  padding-bottom: 4%;
+  padding-right: 3%;
+}
+
+.bottom-img-right {
+  padding-bottom: 4%;
+  padding-left: 3%;
+}
 
 h1 {
   color: #fff;
@@ -136,8 +146,6 @@ h1 {
   background-color: #19459c;
   padding: 2% 1% 2% 4%;
   margin: 2% -2.7% 0% -2%;
-
-
 }
 
 h2 {
@@ -149,8 +157,6 @@ h2 {
   padding: 2% 1% 2% 4%;
   margin: 2% -2.7% 0% -2%;
 }
-
-
 
 .main-article {
   background-color: #fff;
@@ -170,17 +176,6 @@ h2 {
 .bucket-p {
   margin-top: -.1%;
 }
-
-.bottom-img {
-  padding-bottom: 4%;
-  padding-right: 3%;
-}
-
-.bottom-img-right {
-  padding-bottom: 4%;
-  padding-left: 3%;
-}
-
 
 /* Media Queries */
 
@@ -240,5 +235,12 @@ footer p {
   margin-left: 2.5%;
 }
 
+}
 
+@media only screen and (min-width: 93em) {
+
+html {
+  background-image:url(../images/sky-background.png);
+  font: normal 150%/1.4 Georgia, serif;
+}
 }
