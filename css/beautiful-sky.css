@@ -13,9 +13,9 @@
 
 html {
   min-width: 240px;
-  background-image:url(../images/sky-background2.png);
-  background-repeat: none;
-  background-color: #769ce5;
+  background-image:url(../images/sky-background.jpg);
+  background-repeat: no-repeat;
+  background-color: #5a98e1;
   font: normal 125%/1.4 Georgia, serif;
 }
 
