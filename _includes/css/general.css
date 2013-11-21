@@ -19,6 +19,10 @@ html {
   font: normal 125%/1.4 Georgia, serif;
 }
 
+body {
+  margin: .5em;
+}
+
 /* Skiplinks */
 .skiplinks {
   margin: 0;
