@@ -136,11 +136,15 @@ li {
 }
 
 .footer-p {
+  padding: 2% 20% 1% 20%;
+  display: inline-block;
   font-size: .5em;
   color: #19459c;
   text-align: center;
-  padding-top: 2.5%;
+  background: none;
+  margin: 0;
 }
+
 
 .read-on-link,
 a .read-on-link:visited {
