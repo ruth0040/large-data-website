@@ -84,7 +84,7 @@
   }*/
 }
 
-@media only screen and (min-width: 43em) and (max-width: 60em) {
+@media only screen and (min-width: 38em) and (max-width: 60em) {
 /*  .unit-m-hidden {
     display: none;
     visibility: hidden;
@@ -150,10 +150,10 @@
     width: 75%;
   }*/
   .unit-l-1-6 {
-    width: 17%;
+    width: 15%;
   }
   .unit-l-2-6 {
-    width: 29%;
+    width: 40%;
   }
 
 }
