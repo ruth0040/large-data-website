@@ -24,10 +24,6 @@ body {
   margin: 0 auto;
 }
 
-.drop-down li:hover ul {
-  width: 10em;
-}
-
 @media only screen and (min-width: 240px) {
   body {
     max-width: none;
@@ -161,6 +157,7 @@ li {
   left: -9999em;
   position: absolute;
   z-index: 1000;
+  max-width: 10em;
 }
 .drop-down li ul a,
 .drop-down li ul a:link,
