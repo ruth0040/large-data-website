@@ -1,16 +1,12 @@
 # The Marvelous Sky
 
-The sky, an item that many people take for granted. Everyone has been exposed to
-the sky and its amazing and vast beauty. It is the air that we breath and the back
-drop for many photos, but what do people really know about the sky?
+The sky, an item that many people take for granted. Everyone has been exposed to the sky and its amazing and vast beauty. It is the air that we breath and the back drop for many photos, but what do people really know about the sky?
 
 *Why is the sky blue?* is a very popular question but how many people actually know the answer?
 
 ## Purpose
 
-This project is a school assignment, while making this site I would like to learn
- about large data biased websites and how to design a system for a large website.
- I am excited to be using Git and GitHub to complete this assignment.
+This project is a school assignment, while making this site I would like to learn about large data biased websites and how to design a system for a large website. I am excited to be using Git and GitHub to complete this assignment.
 
 I would like to explore the beauty of the sky, while I create this website.
 
@@ -47,22 +43,22 @@ This website will be aimed at students and anyone generally interested in the my
 ## To-do
 
 - [x] Research
-- [ ] Content organization
-- [ ] Tasks & priorities
-- [ ] Prototype
-- [ ] Style exploration
-- [ ] Writing exploration
-- [ ] Component guide
-- [ ] Homepage design
-- [ ] Inside pages
-- [ ] Comments
-- [ ] Categories
-- [ ] Search results
-- [ ] Accessibility
-- [ ] 404 page
-- [ ] SEO
-- [ ] Metadata
-- [ ] Speed
+- [x] Content organization
+- [x] Tasks & priorities
+- [x] Prototype
+- [x] Style exploration
+- [x] Writing exploration
+- [x] Component guide
+- [x] Homepage design
+- [x] Inside pages
+- [x] Comments
+- [x] Categories
+- [x] Search results
+- [x] Accessibility
+- [x] 404 page
+- [x] SEO
+- [x] Metadata
+- [x] Speed
 
 ## Licence
 

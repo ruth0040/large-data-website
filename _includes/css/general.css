@@ -43,7 +43,6 @@ body {
   font-size: 1.25em;
   font-weight: bold;
   list-style-type: none;
-
 }
 
 .skiplinks a,
@@ -93,19 +92,9 @@ footer a:active {
   background-color: #FFF;
 }
 
-/*nav a,
-nav a:hover,
-nav a:active {
-  background-color: #6b89c5;
-  display: block;
-}
-*/
-
-
 .nav-bg {
     background-color: #eae8e4;
     margin: 0% 0% 5% 0%;
-
 }
 
 nav a,
@@ -138,14 +127,8 @@ a.logo:active {
   background-color: transparent;
 }
 
-/*nav a .logo:hover {
-  background-color: #eae8e4;
-}*/
-/*  border: 1px solid red;*/
-
 li {
   list-style-type: none;
-
 }
 
 .drop-down {
@@ -159,6 +142,7 @@ li {
   z-index: 1000;
   max-width: 10em;
 }
+
 .drop-down li ul a,
 .drop-down li ul a:link,
 .drop-down li ul a:visited {
@@ -195,7 +179,6 @@ li {
   width: 100%;
   padding-left: 32%;
 }
-
 
 .read-on-link,
 a .read-on-link:visited {
@@ -259,7 +242,6 @@ h3 {
 .bucket {
   background-color: #fff;
   background: rgba(255, 255, 255, 0.4);
-/*    padding: 4% 1% 2% 4%;*/
   margin: 1.5%;
 }
 
@@ -268,11 +250,12 @@ h3 {
   margin: 1.5% 0%;
 }
 
-
 .bucket-p {
   margin-top: -5%;
   padding: 0% 2%;
 }
+
+
 
 /* 404 page */
 .help {
@@ -424,7 +407,6 @@ html {
   font: normal 150%/1.4 Georgia, serif;
 }
 
-
 }
 
 @media only screen and (min-width: 125em) {
@@ -444,7 +426,6 @@ html {
 .img-left {
   padding-top: 2%;
 }
-
 .img-right {
   padding-top: 2%;
 }
