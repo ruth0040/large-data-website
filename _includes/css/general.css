@@ -319,10 +319,6 @@ h3 {
   padding-top: 2%;
 }
 
-.bottom-img {
-  padding-top: -8px;
-}
-
 .help {
   padding: 10% 8%;
 }
@@ -415,7 +411,7 @@ html {
   font: normal 180%/1.4 Georgia, serif;
 }
 .unit-img {
-  padding-top: -3%;
+  margin-top: -3%;
 }
 .img-top-right {
   margin-top: 2%;
